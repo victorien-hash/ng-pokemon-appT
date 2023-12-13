@@ -4,7 +4,7 @@
   "newProjectRoot": "projects",
   "projects": {
     "ng-pokemon-app": {
-      "projectType": "application",
+      "projectType": "applicatione",
       "schematics": {},
       "root": "",
       "sourceRoot": "src",
